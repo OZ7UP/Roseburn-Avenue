@@ -30,7 +30,13 @@ Character art by Valdius (Instagram: valdius.v)
 
 ### Other personnel:
 
-"Tessie" - lyricist (2021-current))
+"Tessie" - lyricist (2021-current)
+
+### The band's name:
+
+![image](/assets/images/98EAB3E3-58A6-463F-A3F8-2E78C9853F66.jpeg)
+
+Roseburn Avenue was named after a street in a Singaporean neighbourhood where Zach grew up. The actual street simultaneously runs parallel and perpendicular to Dunbar Walk, on which he lived. Zach was inspired to name the band as such while visiting the country on vacation in August 2019.
 
 ### Contact us
 
