@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to the official Roseburn Avenue website!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Roseburn Avenue is an internet-based international rock band with members based around the world. As a part of the "Fandori!" doujin project, Roseburn Avenue is originally inspired by Roselia, one of the active live bands from the "BanG Dream" multimedia franchise.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Roseburn Avenue is a passion hobby for its members. While there will be a bit of a long wait in between original song projects due to "In Real Life" obligations, you can be assured that when the band releases something, you will enjoy it.
