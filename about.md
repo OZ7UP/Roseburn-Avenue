@@ -26,6 +26,8 @@ Rita - female vocalist (2019-current)
 
 ![image](/assets/images/Roseburn_Avenue_Full_Band.png)
 
+Character art by Valdius (Instagram: valdius.v)
+
 ### Other personnel:
 
 "Tessie" - lyricist (2021-current))
