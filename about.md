@@ -40,4 +40,4 @@ Roseburn Avenue was named after a street in a Singaporean neighbourhood where Za
 
 ### Contact us
 
-No email links for the moment, but please fill free to communicate with us on Twitter!
+No email contact for the moment, but please fill free to communicate with us on Twitter!
