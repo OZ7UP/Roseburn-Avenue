@@ -14,15 +14,15 @@ As of early 2021, Roseburn Avenue has become its own entity beyond being just a 
 
 The band currently consists of:
 
-Zachary Tan - bassist (2020-current), co-leader, co-songwriter (2019-current)
+Zachary Tan (Australia; based in Japan) - bassist (2020-current), co-leader, co-songwriter (2019-current)
 
-John Jin - lead guitarist (2020-current), co-leader, co-songwriter, additional keys (2019-current)
+John Jin (Singapore) - lead guitarist (2020-current), co-leader, co-songwriter, additional keys (2019-current)
 
-"Kiro" - male vocalist (2020-current)
+"Kiro" (Malaysia) - male vocalist (2020-current)
 
-Rita - female vocalist (2019-current)
+Rita (Portugal) - female vocalist (2019-current)
 
-"Thewhitewhale" - Keyboardist (2019-current)
+"Thewhitewhale" (Canada) - Keyboardist (2019-current)
 
 ![image](/assets/images/Roseburn_Avenue_Full_Band.png)
 
@@ -30,7 +30,7 @@ Character art by Valdius (Instagram: valdius.v)
 
 ### Other personnel:
 
-"Tessie" - lyricist (2021-current)
+"Tessie" (Croatia) - lyricist (2021-current)
 
 ### The band's name:
 
