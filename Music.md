@@ -21,3 +21,14 @@ permalink: /music/
 
 ### Solo work
 
+
+<b>"Remebering" by John Jin</b>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dTlo3GrVO3M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+<b>"L'éclat" (instrumental) by Zachary Tan</b>
+
+<i>(Note: This instrumental was the foundation on which "Beneath the Waves" was written.</i>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yINNdacnue8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
