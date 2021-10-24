@@ -14,7 +14,7 @@ As of early 2021, Roseburn Avenue has become its own entity beyond being just a 
 
 The band currently consists of:
 
-Zachary Tan (Australia; based in Japan) - bassist (2020-current), co-leader, co-songwriter (2019-current)
+Zachary Tan (Australia; based in Japan) - bassist (2020-current), co-leader, co-songwriter (2019-current) (Currently not affiliated with the Fandori Project)
 
 John Jin (Singapore) - lead guitarist (2020-current), co-leader, co-songwriter, additional keys (2019-current)
 
@@ -30,7 +30,7 @@ Character art by Valdius (Instagram: valdius.v)
 
 ### Other personnel:
 
-"Tessie" (Croatia) - lyricist (2021-current)
+Tessie (Croatia) - lyricist (2021-current) (Currently not affiliated with the Fandori Project)
 
 ### The band's name:
 
