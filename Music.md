@@ -22,7 +22,7 @@ permalink: /music/
 ### Solo work
 
 
-<b>"Remebering" by John Jin</b>
+<b>"Remembering" by John Jin</b>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dTlo3GrVO3M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
