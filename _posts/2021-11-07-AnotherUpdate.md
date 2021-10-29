@@ -10,3 +10,6 @@ Looking back on the songwriting process among Zach, John and Tessie, it has been
 But our preference, of course, is to have the music speak for itself.
 
 We can't wait.
+
+
+![image](/assets/images/John in the studio.jpg/)
