@@ -12,4 +12,4 @@ But our preference, of course, is to have the music speak for itself.
 We can't wait.
 
 
-![image](/assets/images/John in the studio.jpg/)
+![image](/assets/images/John-in-the-studio.jpg/)
