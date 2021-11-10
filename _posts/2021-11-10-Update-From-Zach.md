@@ -4,8 +4,6 @@ Title: Brief Update from Zach
 Author: Zachary Tan
 ---
 
-### What's been happening?
-
 Hey everyone, I'd just thought it would be a good idea to give a bit of an update as to what's been happening. The weather's been crazy in Nagasaki over the past few weeks, first with the sudden drops in temperature followed by the current wet weather.
 
 If you're a vocalist, I have to stress how important it is to look after your throat, especially if you live in a country that has all four seasons. Your throat needs time to adjust itself, so it's not a good idea to push it if you're not a professionally trained singer. Unfortunately, I was caught out by this, which forced me to put off recording my vocals for about a week. I'm all good now, so hopefully I'll be able to hit the mic this weekend.
