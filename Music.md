@@ -32,10 +32,18 @@ Written by Zachary Tan and John Jin
 
 <b>"Remembering" by John Jin</b>
 
+Written and performed by John Jin
+
+©2021 John Jin
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dTlo3GrVO3M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 <b>"L'éclat" (instrumental) by Zachary Tan</b>
+
+Written and performed by Zachary Tan
+
+©2020 Zachary Tan
 
 <i>(Note: This instrumental was the foundation on which "Beneath the Waves" was written.)</i>
 
