@@ -1,7 +1,6 @@
 ---
 layout: post
 title: From The Mixing Desk
-cover-img: /assets/images/john-in-the-studio.jpg
 ---
 
 With the guitar solos re-recorded, the instrumental mix is, for the most part, done and ready for the next part: vocals and mixing.
@@ -15,4 +14,7 @@ With the latency blues out of the way, I’ve even managed to incorporate what m
 It suffices to say that we are excited (I’m buzzing, I dare say) for the upcoming release, and more so in light of the instrumental mix as it stands. I’m looking forward to bringing the vocals together once we’re done recording on that front.
 
 John
+
 16 November 2021
+
+![image](/assets/images/John-in-the-studio.jpg/)
