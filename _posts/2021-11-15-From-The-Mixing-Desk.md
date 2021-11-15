@@ -1,7 +1,7 @@
 ---
 layout: post
 title: From The Mixing Desk
-cover-img: /assets/img/john-in-the-studio.jpg
+cover-img: /assets/images/john-in-the-studio.jpg
 ---
 
 With the guitar solos re-recorded, the instrumental mix is, for the most part, done and ready for the next part: vocals and mixing.
