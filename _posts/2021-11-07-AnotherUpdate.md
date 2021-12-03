@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Another Song Progress Update
-Author: Admin
+tags:
+- admin
+- production
 ---
 
 Our forthcoming song is one of many firsts – among them, the first Roseburn Avenue song with Tessie’s involvement, the first to be written partly in Japanese (also, the first John has written in any non-native language), the first involving Zach on vocal melodies, and the first to incorporate clear symphonic elements.
