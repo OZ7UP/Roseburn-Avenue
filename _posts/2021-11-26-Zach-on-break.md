@@ -3,6 +3,7 @@ layout: post
 title: Post-birthday message from Zach
 tags:
 - zach
+- personal
 ---
 Zach here. I was originally going to post something two days ago on my birthday, but unfortunately, working from home (due to a prefecture-wide online two-day conference) prevented me from doing so.
 
