@@ -18,7 +18,7 @@ Music by Ralph Siegel
 
 ©1979 BMG
 
-<iframe width="560" height="315" src="https://youtu.be/M0svLkTw-bk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M0svLkTw-bk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <b>"記念日に会いましょう" by ステーション</b>
 
