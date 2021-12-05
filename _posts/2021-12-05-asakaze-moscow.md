@@ -5,7 +5,7 @@ tags:
 - cover
 - あさかぜ
 ---
-Project ASAKAZE is proud to release its latest cover, this time that of a certain German song espousing the charmss of Moscow.
+Project ASAKAZE is proud to release its latest cover, this time that of a certain German song espousing the charms of Moscow.
 
 You are hereby invited to knock back that shot of vodka and attempt to do the prisyádka.
 
