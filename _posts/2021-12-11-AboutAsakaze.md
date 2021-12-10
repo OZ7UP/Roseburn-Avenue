@@ -4,7 +4,6 @@ title: At Break of Day - the origins of Project ASAKAZE
 tags:
 - john
 - あさかぜ
-- production
 ---
 
 Project ASAKAZE started life as a thought I’d slept on for a while – “Hey, wouldn’t this song (Graceful Gate by Japanese symphonic metal band Cross Vein) sound quite neat as a Spaghetti Western soundtrack?”  
