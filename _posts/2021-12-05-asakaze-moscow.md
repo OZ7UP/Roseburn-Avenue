@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dschinghis Khan's Moskau as covered by Project ASAKAZE
+author: Admin
 tags:
 - cover
 - あさかぜ
