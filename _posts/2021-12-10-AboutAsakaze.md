@@ -1,6 +1,7 @@
 ---
 layout: post
 title: At Break of Day - the origins of Project ASAKAZE
+author: John Jin
 tags:
 - john
 - あさかぜ
