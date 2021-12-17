@@ -1,6 +1,7 @@
 ---
 layout: post
 title: From The Mixing Desk
+author: John Jin
 tags:
 - production
 - john
