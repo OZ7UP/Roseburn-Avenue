@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Post-birthday message from Zach
+author: Zachary Tan
 tags:
 - zach
 - personal
