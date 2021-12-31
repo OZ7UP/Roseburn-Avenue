@@ -29,6 +29,13 @@ Written by Zachary Tan and John Jin
 
 ### Solo work
 
+<b>"Slumber of Oblivion"</b>
+
+Written and performed by John Jin
+
+©2021 John Jin
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EfVFqq-Z_Oo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <b>"Remembering" by John Jin</b>
 
