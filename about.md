@@ -8,7 +8,7 @@ Officially formed as part of [the Fandori Project](https://fandoriproject.wordpr
 
 In other words, if someone from the songwriting team likes something, they'll find a way to integrate it into their music.
 
-As of early 2021, Roseburn Avenue has become its own entity beyond being just a band, with its YouTube Channel becoming host to "Project ASAKAZE", a side project focusing on rearrangements of popular anime and J-game songs, especially those from other Bushiroad franchises.
+As of early 2021, Roseburn Avenue has become its own entity beyond being just a band, with its YouTube Channel becoming host to "Project ASAKAZE", a side project focusing on rearrangements of popular anime and J-game songs (especially from other Bushiroad franchises), as well as rock and pop songs.
 
 ### About the band:
 
