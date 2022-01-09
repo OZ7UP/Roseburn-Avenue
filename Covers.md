@@ -12,6 +12,14 @@ None yet.
 
 All arrangements by John Jin unless otherwise noted.
 
+<b>"Forever Yours" by Nightwish</b>
+
+Music by Tuomas Holopainen
+
+© 2002 Spinefarm Records
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGd43TsIvlE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <b>"Moskau" by Dschinghis Khan</b>
 
 Music by Ralph Siegel
