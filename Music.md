@@ -5,6 +5,14 @@ permalink: /music/
 ---
 ### Roseburn Avenue
 
+<b><u>2022: Tsubame</u></b>
+
+Written by John Jin, Zachary Tan, and Tessie.
+
+©2022 John Jin, Zachary Tan, and Roseburn Avenue
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BdAgN79BT2I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <b><u>2020: Beneath The Waves</u></b>
 
 Written by Zachary Tan and John Jin
