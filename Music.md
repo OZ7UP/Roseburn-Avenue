@@ -9,7 +9,7 @@ permalink: /music/
 
 Written by John Jin, Zachary Tan, and Tessie.
 
-©2022 John Jin, Zachary Tan, and Roseburn Avenue
+©2022 John Jin, Zachary Tan, Tessie, and Roseburn Avenue
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BdAgN79BT2I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
