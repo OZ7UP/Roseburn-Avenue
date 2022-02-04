@@ -12,6 +12,12 @@ None yet.
 
 All arrangements by John Jin unless otherwise noted.
 
+<b>"Variation - 1st Soloist Shade" from "La Bayadère", Act III</b>
+
+Music by Ludwig Minkus
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=69P__8zRs1s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <b>"Forever Yours" by Nightwish</b>
 
 Music by Tuomas Holopainen
