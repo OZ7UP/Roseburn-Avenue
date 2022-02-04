@@ -16,7 +16,7 @@ All arrangements by John Jin unless otherwise noted.
 
 Music by Ludwig Minkus
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=69P__8zRs1s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/69P__8zRs1s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <b>"Forever Yours" by Nightwish</b>
 
