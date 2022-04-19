@@ -12,6 +12,15 @@ None yet.
 
 All arrangements by John Jin unless otherwise noted.
 
+<b>"Beautiful さ" by BiSH (country version)</b>
+
+Lyrics by Ling Ling
+Music by Matsukuma Kenta
+
+©2016 Sub Trax.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P_x3auGrmkg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <b>"Floor Killer" by Merm4id (country version)</b>
 
 Lyrics and music by Miyakoda Kazushi
