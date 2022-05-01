@@ -12,6 +12,14 @@ None yet.
 
 All arrangements by John Jin unless otherwise noted.
 
+<b>"Windborne Hymn" from the Genshin Impact soundtrack (Spaghetti Western version)</b>
+
+Music by Yu-Peng Chen
+
+©2020 miHoYo / HoYoVerse
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AwWRxS0M-Q0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <b>"Beautiful さ" by BiSH (country version)</b>
 
 Lyrics by Ling Ling
