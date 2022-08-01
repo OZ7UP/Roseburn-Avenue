@@ -18,7 +18,7 @@ The band currently consists of:
 
 Birthday: November 24th
 
-Influences: Insomnium, Electric Callboy, Rise Against, Story of the Year
+Influences: Insomnium, Electric Callboy, Rise Against, Sum 41, BFMV, Liella
 
 Favourite Roselia song: "Zeal of Proud"
 
@@ -34,6 +34,11 @@ Favourite Roselia song: "Opera of the Wasteland"
 
 <b>"Kiro" (Malaysia) - male vocalist (2020-current)</b>
 
+Birthday: May 14th
+
+Influences: Twenty One Pilots, Honeyworks, Last Note, yanaginagi, Maeda Jun
+
+Favourite Roselia song: "Hidamari Rhodonite"
 
 <b>Rita (Portugal) - female vocalist (2019-current)</b>
 
