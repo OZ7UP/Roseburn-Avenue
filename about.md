@@ -40,7 +40,12 @@ Influences: Twenty One Pilots, Honeyworks, Last Note, yanaginagi, Maeda Jun
 
 Favourite Roselia song: "Hidamari Rhodonite"
 
+
 <b>Rita (Portugal) - female vocalist (2019-current)</b>
+
+Birthday: July 8th
+
+Favourite Roselia song: “Firebird”
 
 
 <b>"Thewhitewhale" (Canada) - Keyboardist (2019-current)</b>
