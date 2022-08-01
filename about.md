@@ -14,15 +14,18 @@ As of early 2021, Roseburn Avenue has become its own entity beyond being just a 
 
 The band currently consists of:
 
-Zachary Tan (Australia; based in Japan) - bassist (2020-current), co-leader, co-songwriter (2019-current) (Currently not affiliated with the Fandori Project) [Personal website](https://zachary-2w-tan.com){:target="_blank"}
+<b>Zachary Tan (Australia; based in Japan) - bassist (2020-current), co-leader, co-songwriter (2019-current) (Currently not affiliated with the Fandori Project) [Personal website](https://zachary-2w-tan.com){:target="_blank"}</b>
+Birthday: November 24th
+Influences: Insomnium, Electric Callboy, Rise Against, Story of the Year
+Favourite Roselia song: "Zeal of Proud"
 
-John Jin (Singapore) - lead guitarist (2020-current), co-leader, co-songwriter, additional keys (2019-current)
+<b>John Jin (Singapore) - lead guitarist (2020-current), co-leader, co-songwriter, additional keys (2019-current)</b>
 
-"Kiro" (Malaysia) - male vocalist (2020-current)
+<b>"Kiro" (Malaysia) - male vocalist (2020-current)</b>
 
-Rita (Portugal) - female vocalist (2019-current)
+<b>Rita (Portugal) - female vocalist (2019-current)</b>
 
-"Thewhitewhale" (Canada) - Keyboardist (2019-current)
+<b>"Thewhitewhale" (Canada) - Keyboardist (2019-current)</b>
 
 ![image](/assets/images/Roseburn_Avenue_Full_Band.png)
 
@@ -30,7 +33,7 @@ Character art by Valdius (Instagram: valdius.v)
 
 ### Other personnel:
 
-Tessie (Croatia) - lyricist (2021-current) (Currently not affiliated with the Fandori Project)
+<b>Tessie (Croatia) - lyricist (2021-current) (Currently not affiliated with the Fandori Project)</b>
 
 ### The band's name:
 
