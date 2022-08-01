@@ -25,7 +25,7 @@ Favourite Roselia song: "Zeal of Proud"
 
 <b>John Jin (Singapore) - lead guitarist (2020-current), co-leader, co-songwriter, additional keys (2019-current)</b>
 
-Birthday: 1 August
+Birthday: August 1st
 
 Influences (alleged): SKYWINGS, BiSH, The Ventures, The Shadows, Sonata Arctica, Indica
 
@@ -42,7 +42,7 @@ Favourite Roselia song: "Opera of the Wasteland"
 
 Influences: Chopin, TUYU, OSTER project, Team Grimoire, xi
 
-Favourite Roselia song: Promise/Yakusoku
+Favourite Roselia song: "Promise/Yakusoku"
 
 
 ![image](/assets/images/Roseburn_Avenue_Full_Band.png)
