@@ -63,6 +63,12 @@ Character art by Valdius (Instagram: valdius.v)
 
 <b>Tessie (Croatia) - lyricist (2021-current) (Currently not affiliated with the Fandori Project)</b>
 
+Birthday: January 1st
+
+Influences: Silente, Halsey, Daughter, Amarante, the music of "Revue Starlight", Twenty One Pilots, Owel
+
+Favourite Roselia song: "Promise" ("Yakusoku")
+
 ### The band's name:
 
 ![image](/assets/images/98EAB3E3-58A6-463F-A3F8-2E78C9853F66.jpeg)
