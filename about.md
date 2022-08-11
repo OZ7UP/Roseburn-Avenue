@@ -18,7 +18,7 @@ The band currently consists of:
 
 Birthday: November 24th
 
-Influences: Saltatio Mortis, Electric Callboy, Rise Against, Feuerschwanz, BFMV, Liella
+Influences: Saltatio Mortis, Electric Callboy, Fraser Edwards, Feuerschwanz, BFMV, Liella
 
 Favourite Roselia song: "Zeal of Proud"
 
