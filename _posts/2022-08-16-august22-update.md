@@ -1,7 +1,10 @@
 ---
 layout: post
 title: August 2022 update
-tags: Zach, update
+author: Zachary Tan
+tags:
+- Zach
+- update
 ---
 
 Hey everyone, apologies for the lack of updates. RL obligations have been a bit crazy recently.
