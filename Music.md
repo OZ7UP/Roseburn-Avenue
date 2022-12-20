@@ -37,6 +37,15 @@ Written by Zachary Tan and John Jin
 
 ### Solo work
 
+<b>"I will Smile Down On You"</b>
+
+Written and performed by John Jin
+
+©2022 John Jin
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kL_Oup3Ajzg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 <b>"Slumber of Oblivion"</b>
 
 Written and performed by John Jin
@@ -44,6 +53,7 @@ Written and performed by John Jin
 ©2021 John Jin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfVFqq-Z_0o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 <b>"Remembering" by John Jin</b>
 
