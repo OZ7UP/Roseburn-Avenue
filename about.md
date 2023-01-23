@@ -41,13 +41,6 @@ Influences: Twenty One Pilots, Honeyworks, Last Note, yanaginagi, Maeda Jun
 Favourite Roselia song: "Hidamari Rhodonite"
 
 
-<b>Rita (Portugal) - female vocalist (2019-current)</b>
-
-Birthday: July 8th
-
-Favourite Roselia song: “Firebird”
-
-
 <b>"Thewhitewhale" (Canada) - Keyboardist (2019-current)</b>
 
 Influences: Chopin, TUYU, OSTER project, Team Grimoire, xi
@@ -69,12 +62,41 @@ Influences: Silente, Halsey, Daughter, Amarante, the music of "Revue Starlight",
 
 Favourite Roselia song: "Promise" ("Yakusoku")
 
+### Legacy members:
+
+<b>Rita (Portugal) - female vocalist (2019-2023)</b>
+
+Birthday: July 8th
+
+Favourite Roselia song: “Firebird”
+
+<b>miyuki - female vocalist (2019)</b>
+
+Twitter: @miyusical
+
+
+<b>Kouhaishy - male vocalist (2019)</b>
+
+Last-known Twitter account: @PeepoMeRuAra
+
+
+<b>Efthemia - Guitars, drum programming (2019)</b>
+
+Twitter: @Ceka_Efthx
+
+
+<b>Pakxenon - Bass (2019)</b>
+
+YouTube: @Pakxenon
+
+
+
 ### The band's name:
 
-![image](/assets/images/98EAB3E3-58A6-463F-A3F8-2E78C9853F66.jpeg)
+![A couple of street signs in a Singaporean neighbourhood, with one saying "Dunbar Walk" and the other saying "Roseburn Avenue".](/assets/images/98EAB3E3-58A6-463F-A3F8-2E78C9853F66.jpeg)
 
 Roseburn Avenue was named after a street in a Singaporean neighbourhood where Zach grew up. The actual street simultaneously runs parallel and perpendicular to Dunbar Walk, on which he lived. Zach was inspired to name the band as such while visiting the country on vacation in August 2019.
 
 ### Contact us
 
-No email contact for the moment, but please feel free to communicate with us on Twitter!
+No email contact for the moment, but please feel free to communicate with us on Mastodon!
