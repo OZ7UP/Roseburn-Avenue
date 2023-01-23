@@ -48,7 +48,7 @@ Influences: Chopin, TUYU, OSTER project, Team Grimoire, xi
 Favourite Roselia song: "Promise/Yakusoku"
 
 
-![image](/assets/images/Roseburn_Avenue_Full_Band.png)
+![The band, with Rita, as depicted as anime characters.](/assets/images/Roseburn_Avenue_Full_Band.png)
 
 Character art by Valdius (Instagram: valdius.v)
 
@@ -75,7 +75,7 @@ Favourite Roselia song: “Firebird”
 Twitter: @miyusical
 
 
-<b>Kouhaishy - male vocalist (2019)</b>
+<b>KouhaiShy - male vocalist (2019)</b>
 
 Last-known Twitter account: @PeepoMeRuAra
 
