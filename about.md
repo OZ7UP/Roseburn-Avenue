@@ -14,11 +14,13 @@ As of early 2021, Roseburn Avenue has become its own entity beyond being just a 
 
 The band currently consists of:
 
-<b>Zachary Tan (Australia; based in Japan) - bassist (2020-current), co-leader, co-songwriter (2019-current) (Currently not affiliated with the Fandori Project) [Personal website](https://zachary-2w-tan.com){:target="_blank"} [Mastodon](https://famichiki.jp/@RBurn_Ave_Zach){:target="_blank"}</b>
+<b>Zachary Tan (Australia; based in Japan) - bassist (2020-current), co-leader, co-songwriter (2019-current) (Currently not affiliated with the Fandori Project)</b>
+
+<b>[Personal website](https://zachary-2w-tan.com){:target="_blank"} [Mastodon](https://famichiki.jp/@RBurn_Ave_Zach){:target="_blank"}</b>
 
 Birthday: November 24th
 
-Influences: Saltatio Mortis, Electric Callboy, Fraser Edwards, Feuerschwanz, BFMV, Liella
+Influences: Saltatio Mortis, Electric Callboy, Fraser Edwards, Feuerschwanz, ENGST, Liella
 
 Favourite Roselia song: "Zeal of Proud"
 
