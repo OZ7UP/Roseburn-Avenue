@@ -16,7 +16,9 @@ The band currently consists of:
 
 <b>Zachary Tan (Australia; based in Japan) - bassist (2020-current), co-leader, co-songwriter (2019-current) (Currently not affiliated with the Fandori Project)</b>
 
-<b>[Personal website](https://zachary-2w-tan.com){:target="_blank"} [Mastodon](https://famichiki.jp/@RBurn_Ave_Zach){:target="_blank"}</b>
+<b>[Personal website](https://zachary-2w-tan.com){:target="_blank"}</b>
+
+<b>[Mastodon](https://famichiki.jp/@RBurn_Ave_Zach){:target="_blank"}</b>
 
 Birthday: November 24th
 
@@ -27,6 +29,8 @@ Favourite Roselia song: "Zeal of Proud"
 
 <b>John Jin (Singapore) - lead guitarist (2020-current), co-leader, co-songwriter, additional keys (2019-current)</b>
 
+Twitter: @Rburn_Ave_John
+
 Birthday: August 1st
 
 Influences (alleged): SKYWINGS, BiSH, The Ventures, The Shadows, Sonata Arctica, Indica
@@ -35,6 +39,8 @@ Favourite Roselia song: "Opera of the Wasteland"
 
 
 <b>"Kiro" (Malaysia) - male vocalist (2020-current)</b>
+
+Twitter: @HirokawaKiro
 
 Birthday: May 14th
 
@@ -45,18 +51,22 @@ Favourite Roselia song: "Hidamari Rhodonite"
 
 <b>"Thewhitewhale" (Canada) - Keyboardist (2019-current)</b>
 
+Twitter: @thewhitewhale1
+
 Influences: Chopin, TUYU, OSTER project, Team Grimoire, xi
 
 Favourite Roselia song: "Promise/Yakusoku"
 
 
-![The band, with Rita, as depicted as anime characters.](/assets/images/Roseburn_Avenue_Full_Band.png)
+![The band, with Rita still a member at the time of commission, as depicted as anime characters.](/assets/images/Roseburn_Avenue_Full_Band.png)
 
 Character art by Valdius (Instagram: valdius.v)
 
 ### Other personnel:
 
 <b>Tessie (Croatia) - lyricist (2021-current) (Currently not affiliated with the Fandori Project)</b>
+
+Twitter: @Melphis__Amekia and @terakawahana
 
 Birthday: January 1st
 
@@ -67,6 +77,8 @@ Favourite Roselia song: "Promise" ("Yakusoku")
 ### Legacy members:
 
 <b>Rita (Portugal) - female vocalist (2019-2023)</b>
+
+Twitter: @liarpain
 
 Birthday: July 8th
 

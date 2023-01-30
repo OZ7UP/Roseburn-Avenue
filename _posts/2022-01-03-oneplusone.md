@@ -19,7 +19,7 @@ With our third song, “Tsubame”, more back-and-forth was therefore warranted 
 
 As straightforward as that might have seemed, we took a number of unexpected turns: it was around this time where both folk and symphonic elements were heavily considered. My original plan at first was a larger-than-life, cinematic piece that would create the impression of flight; Zach suggested increasing the tempo, which I maintain to be an excellent decision.
  
- ![image](https://user-images.githubusercontent.com/16605375/148075179-62cd15ea-d1cc-44c0-8b1b-2194043e4ec1.png)
+ ![Screenshot of a conversation log from the mobile game “Revue Starlight”, featuring Himari, Taman, and Akira.](https://user-images.githubusercontent.com/16605375/148075179-62cd15ea-d1cc-44c0-8b1b-2194043e4ec1.png)
 
 Source: Revue Starlight Re:Live, "BanG Dream!" collab event
 

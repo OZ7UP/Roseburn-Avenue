@@ -22,4 +22,4 @@ John
 
 16 November 2021
 
-![image](/assets/images/John-in-the-studio.jpg/)
+![Back shot of John recording vocals while also playing a guitar. There is another hollow-bodied guitar hanging on the wall in front of him.](/assets/images/John-in-the-studio.jpg/)

@@ -26,4 +26,4 @@ Posted November 26th 2021 (JST)
 
 P.S. I was going to talk a bit about my current recording setup for both bass and vocals, but that can wait a couple of days.
 
-![image](/assets/images/Zach-with-coffee.jpg/)
+![An East-Asian man, Zach himself, drinking a cup of coffee.](/assets/images/Zach-with-coffee.jpg/)

@@ -16,4 +16,4 @@ But our preference, of course, is to have the music speak for itself.
 We can't wait.
 
 
-![image](/assets/images/John-in-the-studio.jpg/)
+![Back shot of John recording vocals while also playing a guitar. There is another hollow-bodied guitar hanging on the wall in front of him.](/assets/images/John-in-the-studio.jpg/)

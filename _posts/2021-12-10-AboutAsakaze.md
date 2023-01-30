@@ -25,7 +25,7 @@ The exercise, of course, fed back directly into the further refinements I made t
 
 For the record, Project ASAKAZE is, in fact, named after the now defunct sleeper train that ran between Tokyo and Shimonoseki.
 
-![photo_2021-12-11_00-39-41](https://user-images.githubusercontent.com/16605375/145611657-cebd75fd-d493-4b03-8b4a-076d93a8d024.jpg)
+![Photo of a model train, namely that of ASAKAZE.](https://user-images.githubusercontent.com/16605375/145611657-cebd75fd-d493-4b03-8b4a-076d93a8d024.jpg)
 
 PS: It's my first time in a long while coding. I think it is about time.
 
