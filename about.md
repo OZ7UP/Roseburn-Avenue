@@ -22,7 +22,7 @@ The band currently consists of:
 
 Birthday: November 24th
 
-Influences: (Songwriting) Saltatio Mortis, Electric Callboy, Fraser Edwards, Feuerschwanz, ENGST, Liella; (bass performance) Ian Hill, CJ Ramone
+Influences: (Songwriting) Saltatio Mortis, Electric Callboy, Fraser Edwards, ENGST, Unantastbar, Liella; (bass performance) Ian Hill, CJ Ramone
 
 Favourite Roselia song: "Zeal of Proud"
 
