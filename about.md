@@ -16,7 +16,7 @@ The band currently consists of:
 
 <b>Zachary Tan (Australia; based in Japan) - bassist (2020-current), co-leader, co-songwriter (2019-current) (Currently not affiliated with the Fandori Project)</b>
 
-<b>[Personal website](https://setonix-with-coffee.netlify.app){:target="_blank"}</b>
+<b>[Personal website](https://zachary-2w-tan.netlify.app){:target="_blank"}</b>
 
 <b>[Mastodon](https://famichiki.jp/@RBurn_Ave_Zach){:target="_blank"}</b>
 
