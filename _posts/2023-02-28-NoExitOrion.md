@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No Exit Orion" is now released!
+title: No Exit Orion is now released!
 author: admin
 tags:
 - music
