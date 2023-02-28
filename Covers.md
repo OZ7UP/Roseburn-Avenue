@@ -6,7 +6,16 @@ permalink: /covers/
 
 ### Roseburn Avenue
 
-None yet.
+<b>"No Exit Orion" (original by Printemps from the first-generation Love Live series)</b>
+
+Music by Hata Aki, composition and original arrangement by Yamada Ryuuhei
+
+Cover arrangement and English lyrics by John Jin
+
+©2015 Lantis
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tlK0B8OgX0I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ### Project ASAKAZE
 
