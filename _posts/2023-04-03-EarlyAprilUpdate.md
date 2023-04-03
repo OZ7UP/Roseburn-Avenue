@@ -16,8 +16,11 @@ Work on our fourth original song has officially started. Titled “Journey’s R
 As Zach will be moving countries towards the end of the year, he expects to finish recording his bass and vocal parts over the next month.
 
 “Journey’s Reflection” songwriting credits:
+
 Music - Zachary Tan
+
 Arrangement: Zachary Tan and John Jin
+
 Lyrics: Tessie Corwin and John Jin
 
 In addition, we do have a few messages and updates from some of the band members.
