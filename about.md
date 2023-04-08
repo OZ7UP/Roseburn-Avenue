@@ -64,7 +64,7 @@ Character art by Valdius (Instagram: valdius.v)
 
 ### Other personnel:
 
-<b>Tessie (Croatia) - lyricist (2021-current) (Currently not affiliated with the Fandori Project)</b>
+<b>Tessie Corwin (Croatia) - lyricist (2021-current) (Currently not affiliated with the Fandori Project)</b>
 
 Twitter: @Melphis__Amekia and @terakawahana
 

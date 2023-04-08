@@ -7,9 +7,9 @@ permalink: /music/
 
 <b><u>2022: Tsubame</u></b>
 
-Written by John Jin, Zachary Tan, and Tessie.
+Written by John Jin, Zachary Tan, and Tessie Corwin.
 
-©2022 John Jin, Zachary Tan, Tessie, and Roseburn Avenue
+©2022 John Jin, Zachary Tan, Tessie Corwin, and Roseburn Avenue
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BdAgN79BT2I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
