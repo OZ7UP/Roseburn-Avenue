@@ -27,7 +27,7 @@ Music by Adam von Mentzer / Mac Felländer-Tsai / Louise Udin
 
 ©2023 Attrakt
   
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=4VFjs380wLc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=4VFjs380wLc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <b>"Dance of Aphros" from the Genshin Impact soundtrack (punk rock version)</b>
 
@@ -35,7 +35,7 @@ Music by Yu-Peng Chen and HOYO-Mix
 
 ©2021 Hoyoverse (formerly MiHoYo)
   
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=iPXJCgLtQHQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=iPXJCgLtQHQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <b>"365 Nichi no Kamihikouki" (original by AKB48)</b>
 
