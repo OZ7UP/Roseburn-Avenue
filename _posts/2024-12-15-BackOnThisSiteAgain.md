@@ -18,7 +18,7 @@ If anything, it'll make it much easier for both our songwriters to write posts f
 
 On the music side of things, if you've been following us on Version 2 of the website, "Journey's Reflection" has been successfully released. Feel free to check it down below, or under our Music section.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ioiPIB6aJ_s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ioiPIB6aJ_s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The band is also hard at work on their upcoming release. We hope you'll look forward to hearing it.
 
