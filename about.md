@@ -14,7 +14,7 @@ As of early 2021, Roseburn Avenue has become its own entity beyond being just a 
 
 The band currently consists of:
 
-<b>Zachary Tan (Australia; based in Japan) - bassist (2020-current), co-leader, co-songwriter (2019-current) (Currently not affiliated with the Fandori Project)</b>
+<b>Zachary Tan (Australia) - bassist (2020-current), co-leader, co-songwriter (2019-current) (Currently not affiliated with the Fandori Project)</b>
 
 <b>[Personal website](https://zachary-2w-tan.com){:target="_blank"}</b>
 
@@ -22,9 +22,9 @@ The band currently consists of:
 
 Birthday: November 24th
 
-Influences: (Songwriting) Saltatio Mortis, Electric Callboy, Fraser Edwards, ENGST, Unantastbar, Liella; (bass performance) Ian Hill, CJ Ramone
+Influences: Unantastbar, FLOYA, Judas Priest, Sum 41
 
-Favourite Roselia song: "Zeal of Proud"
+Favourite Roselia songs: "Zeal of Proud", "Flashlight", "Liberation of Determination"
 
 
 <b>John Jin (Singapore) - lead guitarist (2020-current), co-leader, co-songwriter, additional keys (2019-current)</b>
@@ -62,9 +62,10 @@ Favourite Roselia song: "Promise/Yakusoku"
 
 Character art by Valdius (Instagram: valdius.v)
 
-### Other personnel:
 
-<b>Tessie Corwin (Croatia) - lyricist (2021-current) (Currently not affiliated with the Fandori Project)</b>
+### Legacy members:
+
+<b>Tessie Corwin (Croatia) - lyricist (2021-2024) (Currently not affiliated with the Fandori Project)</b>
 
 Twitter: @Melphis__Amekia and @terakawahana
 
@@ -74,7 +75,6 @@ Influences: Silente, Halsey, Daughter, Amarante, the music of "Revue Starlight",
 
 Favourite Roselia song: "Promise" ("Yakusoku")
 
-### Legacy members:
 
 <b>Rita (Portugal) - female vocalist (2019-2023)</b>
 
