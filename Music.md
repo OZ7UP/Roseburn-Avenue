@@ -11,7 +11,7 @@ Written by Zachary Tan, John Jin, and Tessie Corwin
 
 ©2023 Zachary Tan, John Jin, Tessie Corwin, and Roseburn Avenue
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ioiPIB6aJ_s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ioiPIB6aJ_s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <b><u>2022: Tsubame</u></b>
 
