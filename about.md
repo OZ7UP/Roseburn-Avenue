@@ -27,7 +27,7 @@ Influences: Unantastbar, FLOYA, Judas Priest, Sum 41
 Favourite Roselia songs: "Zeal of Proud", "Flashlight", "Liberation of Determination"
 
 
-<b>John Jin (Singapore) - lead guitarist (2020-current), co-leader, co-songwriter, additional keys (2019-current)</b>
+<b>John Jin (Singapore) - lead guitarist (2020-2024), guitarist (2024-current), co-leader, co-songwriter, additional keys (2019-current)</b>
 
 Twitter: @Rburn_Ave_John
 
@@ -36,6 +36,14 @@ Birthday: August 1st
 Influences (alleged): SKYWINGS, BiSH, The Ventures, The Shadows, Sonata Arctica, Indica
 
 Favourite Roselia song: "Opera of the Wasteland"
+
+
+<b>Audrey Juliette (Singapore) – lead guitarist (2024-current), co-songwriter (2024-current)
+
+Instagram: @9lives.ora
+
+Influences: MyGO!!!!!, Bad Religion, Colorpointe, Cross Vein
+Favourite Roselia song: "Fire Bird"
 
 
 <b>"Kiro" (Malaysia) - male vocalist (2020-current)</b>
@@ -58,7 +66,7 @@ Influences: Chopin, TUYU, OSTER project, Team Grimoire, xi
 Favourite Roselia song: "Promise/Yakusoku"
 
 
-![The band, with Rita still a member at the time of commission, as depicted as anime characters.](/assets/images/Roseburn_Avenue_Full_Band.png)
+![The band as of 21 December 2024](/assets/images/Roseburn%20Late%202024.png)
 
 Character art by Valdius (Instagram: valdius.v)
 
