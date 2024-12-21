@@ -43,7 +43,8 @@ Favourite Roselia song: "Opera of the Wasteland"
 Instagram: @9lives.ora
 
 Influences: MyGO!!!!!, Bad Religion, Colorpointe, Cross Vein
-Favourite Roselia song: "Fire Bird"
+
+Favourite Roselia song: "Firebird"
 
 
 <b>"Kiro" (Malaysia) - male vocalist (2020-current)</b>
