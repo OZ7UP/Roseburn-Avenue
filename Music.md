@@ -5,6 +5,14 @@ permalink: /music/
 ---
 ### Roseburn Avenue
 
+<b><u>2025: In Control</u></b>
+
+Written by Zachary Tan and Audrey Juliette
+
+©2025 Zachary Tan, Audrey Juliette, and Roseburn Avenue
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GjCdZNBi7I4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <b><u>2023: Journey's Reflection</u></b>
 
 Written by Zachary Tan, John Jin, and Tessie Corwin
