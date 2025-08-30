@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Officially formed as part of [the Fandori Project](https://fandoriproject.wordpress.com/){:target="_blank"} in January 2019 (and named seven months later), Roseburn Avenue is a doujin band inspired by the voice actresses of Roselia, one of the six (as of 2021) live bands from the "BanG Dream" multimedia franchise. While the band is firmly within the hard rock genre, the influences that go into the songwriting and arrangement processes are varied, including but not limited to ambient sounds, idol music, folk rock, and electronicore.
+Officially formed as part of [the Fandori Project](https://fandoriproject.wordpress.com/){:target="_blank"} in January 2019 (and named seven months later), Roseburn Avenue is a doujin band inspired by the voice actresses of Roselia, one of the seven (as of 2025) live bands from the "BanG Dream" multimedia franchise (nine, if you include "From Argonavis"). While the band is firmly within the hard rock genre, its songwriters are influenced by a variety of different genres, including Asian pop and German folk rock.
 
 In other words, if someone from the songwriting team likes something, they'll find a way to integrate it into their music.
 
